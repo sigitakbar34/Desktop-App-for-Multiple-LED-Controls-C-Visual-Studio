@@ -1,0 +1,10 @@
+D:\Daftar Gawe\PT GEMAPRO\Kontrol-LED_Sigit Akbar Saputra\Kontrol-LED_Sigit Akbar Saputra\bin\Debug\Kontrol-LED_Sigit Akbar Saputra.exe.config
+D:\Daftar Gawe\PT GEMAPRO\Kontrol-LED_Sigit Akbar Saputra\Kontrol-LED_Sigit Akbar Saputra\bin\Debug\Kontrol-LED_Sigit Akbar Saputra.exe
+D:\Daftar Gawe\PT GEMAPRO\Kontrol-LED_Sigit Akbar Saputra\Kontrol-LED_Sigit Akbar Saputra\bin\Debug\Kontrol-LED_Sigit Akbar Saputra.pdb
+D:\Daftar Gawe\PT GEMAPRO\Kontrol-LED_Sigit Akbar Saputra\Kontrol-LED_Sigit Akbar Saputra\obj\Debug\Kontrol-LED_Sigit Akbar Saputra.csproj.AssemblyReference.cache
+D:\Daftar Gawe\PT GEMAPRO\Kontrol-LED_Sigit Akbar Saputra\Kontrol-LED_Sigit Akbar Saputra\obj\Debug\Kontrol_LED_Sigit_Akbar_Saputra.Properties.Resources.resources
+D:\Daftar Gawe\PT GEMAPRO\Kontrol-LED_Sigit Akbar Saputra\Kontrol-LED_Sigit Akbar Saputra\obj\Debug\Kontrol-LED_Sigit Akbar Saputra.csproj.GenerateResource.cache
+D:\Daftar Gawe\PT GEMAPRO\Kontrol-LED_Sigit Akbar Saputra\Kontrol-LED_Sigit Akbar Saputra\obj\Debug\Kontrol-LED_Sigit Akbar Saputra.csproj.CoreCompileInputs.cache
+D:\Daftar Gawe\PT GEMAPRO\Kontrol-LED_Sigit Akbar Saputra\Kontrol-LED_Sigit Akbar Saputra\obj\Debug\Kontrol-LED_Sigit Akbar Saputra.exe
+D:\Daftar Gawe\PT GEMAPRO\Kontrol-LED_Sigit Akbar Saputra\Kontrol-LED_Sigit Akbar Saputra\obj\Debug\Kontrol-LED_Sigit Akbar Saputra.pdb
+D:\Daftar Gawe\PT GEMAPRO\Kontrol-LED_Sigit Akbar Saputra\Kontrol-LED_Sigit Akbar Saputra\obj\Debug\Kontrol_LED_Sigit_Akbar_Saputra.LEDControl.resources
