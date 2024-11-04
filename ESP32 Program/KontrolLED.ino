@@ -1,4 +1,3 @@
-// Definisikan pin LED
 #define L1 18
 #define L2 19
 #define L3 21
@@ -9,17 +8,14 @@ String dataString;
 char data;
 
 void setup() {
-  // Inisialisasi komunikasi serial
   Serial.begin(115200);
 
-  // Atur semua pin sebagai output
   pinMode(L1, OUTPUT);
   pinMode(L2, OUTPUT);
   pinMode(L3, OUTPUT);
   pinMode(L4, OUTPUT);
   pinMode(L5, OUTPUT);
 
-  // Pastikan semua LED dalam keadaan mati di awal
   digitalWrite(L1, LOW);
   digitalWrite(L2, LOW);
   digitalWrite(L3, LOW);
@@ -28,12 +24,10 @@ void setup() {
 }
 
 void loop() {
-  // Periksa apakah ada data yang tersedia di serial
   if (Serial.available() > 0) {
     dataString = Serial.readString();
     char data = dataString.charAt(0);
 
-    // Periksa data yang diterima dan kontrol LED sesuai
     if (data == 'A') {
       digitalWrite(L1, HIGH); // Nyalakan LED pada pin 18
     } 
